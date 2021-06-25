@@ -1,0 +1,17 @@
+Main article detailing arbitrage opportunity:
+https://messari.io/article/arbitraging-uniswap-and-sushiswap-in-node-js
+
+The link details how to implement the ideas. 
+
+A guide is given for building a bot that will
+execute the trades on Uniswap and Sushiswap.
+
+The business logic for this bot will be:
+Monitor latest prices on Uniswap and SushiSwap
+Decide whether to trade
+Execute trade
+
+Uniswap:
+https://uniswap.org/
+Sushiswap:
+https://sushi.com/
